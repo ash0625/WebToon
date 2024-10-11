@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Webtoon Info App</string>
+    <string name="home">Home</string>
+    <string name="fav">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="best_action_fantasy_manhwa">Best Action Fantasy Manhwa</string>
+    <string name="solo">A webtoon adaptation of Solo Leveling was first serialized in KakaoPage on March 4, 2018; it was illustrated by Jang Sung-rak (Dubu)</string>
+    <string name="tower">Tower of God[a] is a South Korean manhwa released as a webtoon written and illustrated by S.I.U.</string>
+    <string name="hard">Hardcore Leveling Warrior is a Manga/Manhwa/Manhua in english language, Action series, english chapters have been translated and you can read them here.</string>
+    <string name="noblees">Rai awakens from an 820-year sleep and begins his new life as a student at an institute founded by his loyal servant, Frankenstein. But his peaceful days are interrupted by attackers known as the Unions.</string>
+</resources>
